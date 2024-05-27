@@ -3,10 +3,16 @@ This project is the Exploratory Data Analysis(EDA) on New York City's yellow tax
 
 I have taken following steps in this project to complete the EDA:
 
-Dropped unnececssary columns
-Added new columns that could add value
-Extensive cleaning of data i.e removing Nans and bogus data
-Univariate Ananlysis of Continuous and Categorical variables
+Dropped unnececssary columns.
+
+Added new columns that could add value.
+
+Extensive cleaning of data i.e removing Nans and bogus data.
+
+Univariate Ananlysis of Continuous and Categorical variables.
+
 Bivariate Analysis between important variables that could lead us to new insights.
-Provided in-depth analysis of data
-Recommended solutions which can be beneficial to the organization
+
+Provided in-depth analysis of data.
+
+Recommended solutions which can be beneficial to the organization.
