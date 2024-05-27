@@ -1,7 +1,7 @@
 # Taxi_Aggregator_Case_Study
 This project is the Exploratory Data Analysis(EDA) on New York City's yellow taxi market. The challenge is provided by Fast Cars, a cab agglomerator like Uber and Ola. They are going to launch their product in New York City. We are tasked to understand the new york taxi market before their product launch.
 
-I have taken following steps in this project to complete the EDA:
+Here are the steps I followed to complete the Exploratory Data Analysis (EDA) for this project:
 
 Dropped unnececssary columns.
 
